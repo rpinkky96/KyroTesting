@@ -45,7 +45,7 @@ public class InviteUserClass extends BaseClass{
 		firstName.sendKeys(Name+Keys.TAB);
 		lastName.click();
 		lastName.sendKeys(LastN);
-		email.sendKeys("test12345@gmail.com");
+		email.sendKeys("test123@gmail.com");
 		roleDropDown.click();
 		projectManager.click();
 		sendInviteBtn.click();
