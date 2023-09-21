@@ -6,6 +6,7 @@
       <class name="org.login.ExecutionClass">
         <methods>
           <include name="method1"/>
+          <include name="method2"/>
         </methods>
       </class> <!-- org.login.ExecutionClass -->
     </classes>

@@ -17,7 +17,7 @@ public class ExecutionClass extends BaseClass{
 		loginClass.LoginFunction("rpinkky96@gmail.com", "Pinkky@1810");
 		Thread.sleep(10000);
 		CreateProjectClass createProjectClass = new CreateProjectClass();
-		createProjectClass.CreateProjectMarkAsPublic("Testing987", "Priya");
+		createProjectClass.CreateProjectMarkAsPublic("Testing789", "Priya");
 	    logout.logoutFuction();
 	}
 	
